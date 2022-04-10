@@ -1,0 +1,1 @@
+import{o as e,c as t,a as o,e as s}from"./app.2cf53764.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const a={},c={id:"extension",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#extension","aria-hidden":"true"},"#",-1),_=s(" Extension"),d=[r,_];function i(h,p){return e(),t("h1",c,d)}var l=n(a,[["render",i]]);export{l as default};
